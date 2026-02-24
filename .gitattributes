@@ -1,0 +1,5 @@
+# Normaliza texto a LF en el repo, cada quien usa su formato en su PC
+* text=auto
+
+# Python siempre con LF en el repo
+*.py text eol=lf
